@@ -1,8 +1,8 @@
 {
     "webringInfo": [
         {
-            "webringName": "Example Ring",
-            "webringHome": "https://example.com/",
+            "webringName": "Indie Press Webring",
+            "webringHome": "https://duckprintspress.com",
             "webringMemberList": "https://example.com/home#list"
         }
     ]
